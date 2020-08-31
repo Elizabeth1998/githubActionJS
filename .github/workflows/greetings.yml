@@ -1,4 +1,4 @@
-name: Greetings
+name: 80s Jams
 
 on: [pull_request, issues]
 
